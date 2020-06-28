@@ -1,0 +1,633 @@
+17 May 21:48:14,689 INFO - Log4j Properties configured.... 
+17 May 21:48:15,966 INFO - Excel Properties configured.... 
+17 May 21:48:15,967 INFO - Seelcted Browser is : chrome 
+17 May 21:48:15,967 INFO - Seelcted Browser mode is : head 
+17 May 21:48:28,332 INFO - Browser Maximized 
+17 May 21:48:28,334 INFO - Seelcted Environment is qa 
+17 May 21:48:28,335 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+17 May 21:48:30,069 INFO - Clearing on object locator : By.name: firstName 
+17 May 21:48:30,352 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+17 May 21:48:30,504 INFO - Clearing on object locator : By.name: lastName 
+17 May 21:48:30,773 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+17 May 21:48:30,954 INFO - Clearing on object locator : By.name: phone 
+17 May 21:48:31,200 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+17 May 21:48:31,407 INFO - Clearing on object locator : By.name: userName 
+17 May 21:48:31,790 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+17 May 21:48:31,972 INFO - Clearing on object locator : By.name: address1 
+17 May 21:48:32,183 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+17 May 21:48:32,387 INFO - Clearing on object locator : By.name: city 
+17 May 21:48:32,586 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+17 May 21:48:32,749 INFO - Clearing on object locator : By.name: postalCode 
+17 May 21:48:32,945 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+17 May 21:48:33,510 INFO - Clearing on object locator : By.name: email 
+17 May 21:48:33,832 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+17 May 21:48:34,059 INFO - Clearing on object locator : By.name: password 
+17 May 21:48:34,515 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+17 May 21:48:34,747 INFO - Clearing on object locator : By.name: confirmPassword 
+17 May 21:48:35,014 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+17 May 21:48:36,867 INFO - Clicking on object locator : By.name: register 
+17 May 21:48:37,100 INFO - Closing Browser 
+17 May 21:49:27,263 INFO - Log4j Properties configured.... 
+17 May 21:49:28,424 INFO - Excel Properties configured.... 
+17 May 21:49:28,425 INFO - Seelcted Browser is : chrome 
+17 May 21:49:28,425 INFO - Seelcted Browser mode is : head 
+17 May 21:49:40,058 INFO - Browser Maximized 
+17 May 21:49:40,059 INFO - Seelcted Environment is qa 
+17 May 21:49:40,060 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+17 May 21:49:41,778 INFO - Clearing on object locator : By.name: firstName 
+17 May 21:49:42,051 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+17 May 21:49:42,202 INFO - Clearing on object locator : By.name: lastName 
+17 May 21:49:42,433 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+17 May 21:49:42,595 INFO - Clearing on object locator : By.name: phone 
+17 May 21:49:42,891 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+17 May 21:49:43,030 INFO - Clearing on object locator : By.name: userName 
+17 May 21:49:43,396 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+17 May 21:49:43,577 INFO - Clearing on object locator : By.name: address1 
+17 May 21:49:43,773 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+17 May 21:49:43,949 INFO - Clearing on object locator : By.name: city 
+17 May 21:49:44,144 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+17 May 21:49:44,307 INFO - Clearing on object locator : By.name: postalCode 
+17 May 21:49:44,526 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+17 May 21:50:15,593 INFO - Closing Browser 
+17 May 21:53:44,652 INFO - Log4j Properties configured.... 
+17 May 21:53:45,781 INFO - Excel Properties configured.... 
+17 May 21:53:45,781 INFO - Seelcted Browser is : chrome 
+17 May 21:53:45,782 INFO - Seelcted Browser mode is : head 
+17 May 21:53:57,428 INFO - Browser Maximized 
+17 May 21:53:57,429 INFO - Seelcted Environment is qa 
+17 May 21:53:57,429 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+17 May 21:54:00,650 INFO - Clearing on object locator : By.name: firstName 
+17 May 21:54:00,923 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+17 May 21:54:01,079 INFO - Clearing on object locator : By.name: lastName 
+17 May 21:54:01,397 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+17 May 21:54:01,568 INFO - Clearing on object locator : By.name: phone 
+17 May 21:54:01,803 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+17 May 21:54:01,958 INFO - Clearing on object locator : By.name: userName 
+17 May 21:54:02,349 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+17 May 21:54:02,487 INFO - Clearing on object locator : By.name: address1 
+17 May 21:54:02,656 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+17 May 21:54:02,808 INFO - Clearing on object locator : By.name: city 
+17 May 21:54:02,981 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+17 May 21:54:03,131 INFO - Clearing on object locator : By.name: postalCode 
+17 May 21:54:03,349 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+17 May 21:54:33,821 ERROR - Clearing on object locator failed: By.name: email1 
+17 May 21:55:03,866 ERROR - Sending data to the object locator Failed: By.name: email1Data is : sachintt 
+17 May 21:55:04,013 INFO - Clearing on object locator : By.name: password 
+17 May 21:55:04,252 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+17 May 21:55:04,406 INFO - Clearing on object locator : By.name: confirmPassword 
+17 May 21:55:04,614 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+17 May 21:55:11,590 INFO - Clicking on object locator : By.name: register 
+17 May 21:55:11,811 INFO - Closing Browser 
+17 May 21:57:56,398 INFO - Log4j Properties configured.... 
+17 May 21:57:57,533 INFO - Excel Properties configured.... 
+17 May 21:57:57,534 INFO - Seelcted Browser is : chrome 
+17 May 21:57:57,534 INFO - Seelcted Browser mode is : head 
+17 May 21:58:09,218 INFO - Browser Maximized 
+17 May 21:58:09,219 INFO - Seelcted Environment is qa 
+17 May 21:58:09,220 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+17 May 21:58:11,021 INFO - Clearing on object locator : By.name: firstName 
+17 May 21:58:11,278 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+17 May 21:58:11,439 INFO - Clearing on object locator : By.name: lastName 
+17 May 21:58:11,698 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+17 May 21:58:11,869 INFO - Clearing on object locator : By.name: phone 
+17 May 21:58:12,121 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+17 May 21:58:12,266 INFO - Clearing on object locator : By.name: userName 
+17 May 21:58:12,632 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+17 May 21:58:12,770 INFO - Clearing on object locator : By.name: address1 
+17 May 21:58:12,928 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+17 May 21:58:13,084 INFO - Clearing on object locator : By.name: city 
+17 May 21:58:13,231 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+17 May 21:58:13,364 INFO - Clearing on object locator : By.name: postalCode 
+17 May 21:58:13,551 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+17 May 21:58:44,003 ERROR - Clearing on object locator failed: By.name: email1 
+17 May 21:58:44,003 ERROR - Expected condition failed: waiting for visibility of element located by By.name: email1 (tried for 30 second(s) with 500 milliseconds interval) 
+17 May 21:58:44,655 INFO - Closing Browser 
+17 May 22:00:48,663 INFO - Log4j Properties configured.... 
+17 May 22:00:49,866 INFO - Excel Properties configured.... 
+17 May 22:00:49,866 INFO - Seelcted Browser is : chrome 
+17 May 22:00:49,867 INFO - Seelcted Browser mode is : head 
+17 May 22:01:01,368 INFO - Browser Maximized 
+17 May 22:01:01,369 INFO - Seelcted Environment is qa 
+17 May 22:01:01,369 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+17 May 22:01:03,090 INFO - Clearing on object locator : By.name: firstName 
+17 May 22:01:03,378 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+17 May 22:01:03,534 INFO - Clearing on object locator : By.name: lastName 
+17 May 22:01:03,771 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+17 May 22:01:03,952 INFO - Clearing on object locator : By.name: phone 
+17 May 22:01:04,193 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+17 May 22:01:04,346 INFO - Clearing on object locator : By.name: userName 
+17 May 22:01:04,795 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+17 May 22:01:04,936 INFO - Clearing on object locator : By.name: address1 
+17 May 22:01:05,091 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+17 May 22:01:05,240 INFO - Clearing on object locator : By.name: city 
+17 May 22:01:05,438 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+17 May 22:01:05,577 INFO - Clearing on object locator : By.name: postalCode 
+17 May 22:01:05,792 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+17 May 22:01:06,353 INFO - Clearing on object locator : By.name: email 
+17 May 22:01:06,635 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+17 May 22:01:06,794 INFO - Clearing on object locator : By.name: password 
+17 May 22:01:07,003 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+17 May 22:01:07,137 INFO - Clearing on object locator : By.name: confirmPassword 
+17 May 22:01:07,370 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+17 May 22:01:14,621 INFO - Clicking on object locator : By.name: register 
+17 May 22:01:14,792 INFO - Closing Browser 
+17 May 22:04:43,877 INFO - Log4j Properties configured.... 
+17 May 22:04:45,014 INFO - Excel Properties configured.... 
+17 May 22:04:45,015 INFO - Seelcted Browser is : chrome 
+17 May 22:04:45,015 INFO - Seelcted Browser mode is : head 
+17 May 22:04:56,742 INFO - Browser Maximized 
+17 May 22:04:56,743 INFO - Seelcted Environment is qa 
+17 May 22:04:56,744 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+17 May 22:05:06,607 INFO - Clearing on object locator : By.name: firstName 
+17 May 22:05:06,863 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+17 May 22:05:07,023 INFO - Clearing on object locator : By.name: lastName 
+17 May 22:05:07,281 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+17 May 22:05:07,473 INFO - Clearing on object locator : By.name: phone 
+17 May 22:05:07,689 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+17 May 22:05:07,811 INFO - Clearing on object locator : By.name: userName 
+17 May 22:05:08,174 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+17 May 22:05:08,355 INFO - Clearing on object locator : By.name: address1 
+17 May 22:05:08,560 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+17 May 22:05:08,910 INFO - Clearing on object locator : By.name: city 
+17 May 22:05:09,263 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+17 May 22:05:09,399 INFO - Clearing on object locator : By.name: postalCode 
+17 May 22:05:09,566 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+17 May 22:05:10,168 INFO - Clearing on object locator : By.name: email 
+17 May 22:05:10,391 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+17 May 22:05:10,516 INFO - Clearing on object locator : By.name: password 
+17 May 22:05:10,828 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+17 May 22:05:11,106 INFO - Clearing on object locator : By.name: confirmPassword 
+17 May 22:05:11,299 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+17 May 22:06:07,519 INFO - Clicking on object locator : By.name: register 
+17 May 22:06:07,731 INFO - Closing Browser 
+23 May 13:33:43,604 INFO - Log4j Properties configured.... 
+23 May 13:33:46,203 INFO - Excel Properties configured.... 
+23 May 13:33:46,204 INFO - Seelcted Browser is : chrome 
+23 May 13:33:46,205 INFO - Seelcted Browser mode is : head 
+23 May 13:34:03,419 INFO - Browser Maximized 
+23 May 13:34:03,420 INFO - Seelcted Environment is qa 
+23 May 13:34:03,421 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+23 May 13:34:06,025 INFO - Clearing on object locator : By.name: firstName 
+23 May 13:34:06,677 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+23 May 13:34:06,989 INFO - Clearing on object locator : By.name: lastName 
+23 May 13:34:07,459 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+23 May 13:34:07,764 INFO - Clearing on object locator : By.name: phone 
+23 May 13:34:08,177 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+23 May 13:34:08,384 INFO - Clearing on object locator : By.name: userName 
+23 May 13:34:08,816 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+23 May 13:34:09,002 INFO - Clearing on object locator : By.name: address1 
+23 May 13:34:09,206 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+23 May 13:34:09,341 INFO - Clearing on object locator : By.name: city 
+23 May 13:34:09,552 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+23 May 13:34:09,702 INFO - Clearing on object locator : By.name: postalCode 
+23 May 13:34:09,952 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+23 May 13:34:10,537 INFO - Clearing on object locator : By.name: email 
+23 May 13:34:10,801 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+23 May 13:34:10,972 INFO - Clearing on object locator : By.name: password 
+23 May 13:34:11,248 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+23 May 13:34:11,409 INFO - Clearing on object locator : By.name: confirmPassword 
+23 May 13:34:11,693 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+23 May 13:34:13,594 INFO - Clicking on object locator : By.name: register 
+23 May 13:34:13,848 INFO - Closing Browser 
+23 May 13:44:18,354 INFO - Log4j Properties configured.... 
+23 May 13:44:19,599 INFO - Excel Properties configured.... 
+23 May 13:44:19,600 INFO - Seelcted Browser is : chrome 
+23 May 13:44:19,603 INFO - Seelcted Browser mode is : head 
+23 May 13:44:31,742 INFO - Browser Maximized 
+23 May 13:44:31,744 INFO - Seelcted Environment is qa 
+23 May 13:44:31,744 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+23 May 13:44:33,607 INFO - Clearing on object locator : By.name: firstName 
+23 May 13:44:33,824 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+23 May 13:44:33,978 INFO - Clearing on object locator : By.name: lastName 
+23 May 13:44:34,171 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+23 May 13:44:34,317 INFO - Clearing on object locator : By.name: phone 
+23 May 13:44:34,549 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+23 May 13:44:34,667 INFO - Clearing on object locator : By.name: userName 
+23 May 13:44:35,252 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+23 May 13:44:35,496 INFO - Clearing on object locator : By.name: address1 
+23 May 13:44:35,706 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+23 May 13:44:35,874 INFO - Clearing on object locator : By.name: city 
+23 May 13:44:36,054 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+23 May 13:44:36,233 INFO - Clearing on object locator : By.name: postalCode 
+23 May 13:44:36,455 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+23 May 13:44:37,034 INFO - Clearing on object locator : By.name: email 
+23 May 13:44:37,298 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+23 May 13:44:37,521 INFO - Clearing on object locator : By.name: password 
+23 May 13:44:37,786 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+23 May 13:44:37,937 INFO - Clearing on object locator : By.name: confirmPassword 
+23 May 13:44:38,205 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+23 May 13:44:40,227 INFO - Clicking on object locator : By.name: register 
+23 May 13:44:40,344 INFO - Closing Browser 
+23 May 13:45:49,793 INFO - Log4j Properties configured.... 
+23 May 13:45:51,367 INFO - Excel Properties configured.... 
+23 May 13:45:51,368 INFO - Seelcted Browser is : chrome 
+23 May 13:45:51,368 INFO - Seelcted Browser mode is : head 
+23 May 13:46:09,168 INFO - Browser Maximized 
+23 May 13:46:09,169 INFO - Seelcted Environment is qa 
+23 May 13:46:09,169 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+23 May 13:46:20,046 INFO - Clearing on object locator : By.name: firstName 
+23 May 13:46:20,417 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+23 May 13:46:20,578 INFO - Clearing on object locator : By.name: lastName 
+23 May 13:46:20,785 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+23 May 13:46:20,936 INFO - Clearing on object locator : By.name: phone 
+23 May 13:46:21,151 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+23 May 13:46:21,356 INFO - Clearing on object locator : By.name: userName 
+23 May 13:46:22,098 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+23 May 13:46:22,450 INFO - Clearing on object locator : By.name: address1 
+23 May 13:46:22,785 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+23 May 13:46:22,972 INFO - Clearing on object locator : By.name: city 
+23 May 13:46:23,146 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+23 May 13:46:23,291 INFO - Clearing on object locator : By.name: postalCode 
+23 May 13:46:23,542 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+23 May 13:46:24,082 INFO - Clearing on object locator : By.name: email 
+23 May 13:46:24,339 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+23 May 13:46:24,497 INFO - Clearing on object locator : By.name: password 
+23 May 13:46:24,805 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+23 May 13:46:24,940 INFO - Clearing on object locator : By.name: confirmPassword 
+23 May 13:46:25,142 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+23 May 13:46:55,209 ERROR - Clicking on object locator failed: By.name: register123 
+23 May 13:46:55,210 ERROR - Expected condition failed: waiting for visibility of element located by By.name: register123 (tried for 30 second(s) with 500 milliseconds interval) 
+23 May 13:46:55,881 INFO - Closing Browser 
+23 May 19:37:04,286 INFO - Log4j Properties configured.... 
+23 May 19:37:05,205 INFO - Excel Properties configured.... 
+23 May 19:37:05,205 INFO - Seelcted Browser is : chrome 
+23 May 19:37:05,205 INFO - Seelcted Browser mode is : head 
+23 May 19:37:16,920 INFO - Browser Maximized 
+23 May 19:37:16,922 INFO - Seelcted Environment is qa 
+23 May 19:37:16,922 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+23 May 19:37:18,777 INFO - Clearing on object locator : By.name: firstName 
+23 May 19:37:18,977 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+23 May 19:37:19,079 INFO - Clearing on object locator : By.name: lastName 
+23 May 19:37:19,240 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+23 May 19:37:19,358 INFO - Clearing on object locator : By.name: phone 
+23 May 19:37:19,531 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+23 May 19:37:19,627 INFO - Clearing on object locator : By.name: userName 
+23 May 19:37:19,980 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+23 May 19:37:20,095 INFO - Clearing on object locator : By.name: address1 
+23 May 19:37:20,222 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+23 May 19:37:20,320 INFO - Clearing on object locator : By.name: city 
+23 May 19:37:20,433 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+23 May 19:37:20,532 INFO - Clearing on object locator : By.name: postalCode 
+23 May 19:37:20,673 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+23 May 19:37:21,053 INFO - Clearing on object locator : By.name: email 
+23 May 19:37:21,234 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+23 May 19:37:21,340 INFO - Clearing on object locator : By.name: password 
+23 May 19:37:21,515 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+23 May 19:37:21,629 INFO - Clearing on object locator : By.name: confirmPassword 
+23 May 19:37:21,804 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+23 May 19:37:51,936 ERROR - Clicking on object locator failed: By.name: register123 
+23 May 19:37:51,936 ERROR - Expected condition failed: waiting for visibility of element located by By.name: register123 (tried for 30 second(s) with 500 milliseconds interval) 
+23 May 19:37:57,232 INFO - Closing Browser 
+23 May 19:50:03,927 INFO - Log4j Properties configured.... 
+23 May 19:50:04,847 INFO - Excel Properties configured.... 
+23 May 19:50:04,847 INFO - Seelcted Browser is : chrome 
+23 May 19:50:04,848 INFO - Seelcted Browser mode is : head 
+23 May 19:50:15,734 INFO - Browser Maximized 
+23 May 19:50:15,735 INFO - Seelcted Environment is qa 
+23 May 19:50:15,735 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+23 May 19:50:17,271 INFO - Clearing on object locator : By.name: firstName 
+23 May 19:50:17,423 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+23 May 19:50:17,520 INFO - Clearing on object locator : By.name: lastName 
+23 May 19:50:17,687 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+23 May 19:50:17,790 INFO - Clearing on object locator : By.name: phone 
+23 May 19:50:17,942 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+23 May 19:50:18,039 INFO - Clearing on object locator : By.name: userName 
+23 May 19:50:18,281 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+23 May 19:50:18,380 INFO - Clearing on object locator : By.name: address1 
+23 May 19:50:18,506 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+23 May 19:50:18,594 INFO - Clearing on object locator : By.name: city 
+23 May 19:50:18,693 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+23 May 19:50:18,777 INFO - Clearing on object locator : By.name: postalCode 
+23 May 19:50:18,898 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+23 May 19:50:19,218 INFO - Clearing on object locator : By.name: email 
+23 May 19:50:19,361 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+23 May 19:50:19,459 INFO - Clearing on object locator : By.name: password 
+23 May 19:50:19,607 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+23 May 19:50:19,705 INFO - Clearing on object locator : By.name: confirmPassword 
+23 May 19:50:19,903 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+23 May 19:50:49,961 ERROR - Clicking on object locator failed: By.name: register123 
+23 May 19:50:49,961 ERROR - Expected condition failed: waiting for visibility of element located by By.name: register123 (tried for 30 second(s) with 500 milliseconds interval) 
+23 May 19:50:54,822 INFO - Closing Browser 
+23 May 20:12:34,935 INFO - Log4j Properties configured.... 
+23 May 20:12:35,864 INFO - Excel Properties configured.... 
+23 May 20:12:35,865 INFO - Seelcted Browser is : chrome 
+23 May 20:12:35,865 INFO - Seelcted Browser mode is : head 
+23 May 20:12:46,868 INFO - Browser Maximized 
+23 May 20:12:46,871 INFO - Seelcted Environment is qa 
+23 May 20:12:46,872 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+23 May 20:12:48,548 INFO - Clearing on object locator : By.name: firstName 
+23 May 20:12:49,186 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+23 May 20:12:49,305 INFO - Clearing on object locator : By.name: lastName 
+23 May 20:12:49,833 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+23 May 20:12:49,983 INFO - Clearing on object locator : By.name: phone 
+23 May 20:12:50,526 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+23 May 20:12:50,635 INFO - Clearing on object locator : By.name: userName 
+23 May 20:12:51,257 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+23 May 20:12:51,365 INFO - Clearing on object locator : By.name: address1 
+23 May 20:12:51,836 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+23 May 20:12:51,950 INFO - Clearing on object locator : By.name: city 
+23 May 20:12:52,441 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+23 May 20:12:52,556 INFO - Clearing on object locator : By.name: postalCode 
+23 May 20:12:53,051 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+23 May 20:12:53,463 INFO - Clearing on object locator : By.name: email 
+23 May 20:12:53,982 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+23 May 20:12:54,107 INFO - Clearing on object locator : By.name: password 
+23 May 20:12:54,592 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+23 May 20:12:54,694 INFO - Clearing on object locator : By.name: confirmPassword 
+23 May 20:12:55,182 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+23 May 20:12:56,942 INFO - Clicking on the field : By.name: register 
+23 May 20:12:57,662 INFO - Closing Browser 
+24 May 21:53:46,175 INFO - Log4j Properties configured.... 
+24 May 21:53:47,797 INFO - Excel Properties configured.... 
+24 May 21:53:47,798 INFO - Seelcted Browser is : chrome 
+24 May 21:53:47,799 INFO - Seelcted Browser mode is : head 
+24 May 21:54:01,374 INFO - Browser Maximized 
+24 May 21:54:01,386 INFO - Seelcted Environment is qa 
+24 May 21:54:01,387 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+24 May 21:54:03,804 INFO - Clearing on object locator : By.name: firstName 
+24 May 21:54:04,126 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+24 May 21:54:04,280 INFO - Clearing on object locator : By.name: lastName 
+24 May 21:54:04,525 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+24 May 21:54:04,714 INFO - Clearing on object locator : By.name: phone 
+24 May 21:54:04,994 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+24 May 21:54:05,143 INFO - Clearing on object locator : By.name: userName 
+24 May 21:54:05,533 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+24 May 21:54:05,679 INFO - Clearing on object locator : By.name: address1 
+24 May 21:54:05,852 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+24 May 21:54:06,006 INFO - Clearing on object locator : By.name: city 
+24 May 21:54:06,162 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+24 May 21:54:06,325 INFO - Clearing on object locator : By.name: postalCode 
+24 May 21:54:06,527 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+24 May 21:54:07,082 INFO - Clearing on object locator : By.name: email 
+24 May 21:54:07,347 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+24 May 21:54:07,501 INFO - Clearing on object locator : By.name: password 
+24 May 21:54:07,770 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+24 May 21:54:08,013 INFO - Clearing on object locator : By.name: confirmPassword 
+24 May 21:54:08,285 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+24 May 21:54:18,830 INFO - Clicking on the field : By.name: register 
+24 May 21:54:19,017 INFO - Closing Browser 
+24 May 21:56:41,810 INFO - Log4j Properties configured.... 
+24 May 21:56:43,238 INFO - Excel Properties configured.... 
+24 May 21:56:43,239 INFO - Seelcted Browser is : chrome 
+24 May 21:56:43,239 INFO - Seelcted Browser mode is : head 
+24 May 21:56:55,149 INFO - Browser Maximized 
+24 May 21:56:55,150 INFO - Seelcted Environment is qa 
+24 May 21:56:55,151 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+24 May 21:56:56,834 INFO - Clearing on object locator : By.name: firstName 
+24 May 21:56:57,199 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+24 May 21:56:57,393 INFO - Clearing on object locator : By.name: lastName 
+24 May 21:56:57,628 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+24 May 21:56:57,786 INFO - Clearing on object locator : By.name: phone 
+24 May 21:56:58,023 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+24 May 21:56:58,152 INFO - Clearing on object locator : By.name: userName 
+24 May 21:56:58,474 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+24 May 21:56:58,609 INFO - Clearing on object locator : By.name: address1 
+24 May 21:56:58,768 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+24 May 21:56:58,885 INFO - Clearing on object locator : By.name: city 
+24 May 21:56:59,025 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+24 May 21:56:59,143 INFO - Clearing on object locator : By.name: postalCode 
+24 May 21:56:59,326 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+24 May 21:56:59,790 INFO - Clearing on object locator : By.name: email 
+24 May 21:57:00,016 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+24 May 21:57:00,243 INFO - Clearing on object locator : By.name: password 
+24 May 21:57:00,493 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+24 May 21:57:00,696 INFO - Clearing on object locator : By.name: confirmPassword 
+24 May 21:57:00,929 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+24 May 21:57:04,005 INFO - Clicking on the field : By.name: register 
+24 May 21:57:04,374 INFO - Closing Browser 
+24 May 22:01:46,451 INFO - Log4j Properties configured.... 
+24 May 22:01:47,903 INFO - Excel Properties configured.... 
+24 May 22:01:47,904 INFO - Seelcted Browser is : chrome 
+24 May 22:01:47,905 INFO - Seelcted Browser mode is : head 
+24 May 22:01:59,957 INFO - Browser Maximized 
+24 May 22:01:59,958 INFO - Seelcted Environment is qa 
+24 May 22:01:59,959 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+24 May 22:02:01,724 INFO - Clearing on object locator : By.name: firstName 
+24 May 22:02:02,094 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+24 May 22:02:02,301 INFO - Clearing on object locator : By.name: lastName 
+24 May 22:02:02,576 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+24 May 22:02:02,763 INFO - Clearing on object locator : By.name: phone 
+24 May 22:02:03,015 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+24 May 22:02:03,195 INFO - Clearing on object locator : By.name: userName 
+24 May 22:02:03,594 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+24 May 22:02:03,774 INFO - Clearing on object locator : By.name: address1 
+24 May 22:02:03,965 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+24 May 22:02:04,105 INFO - Clearing on object locator : By.name: city 
+24 May 22:02:04,319 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+24 May 22:02:04,452 INFO - Clearing on object locator : By.name: postalCode 
+24 May 22:02:04,643 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+24 May 22:02:05,211 INFO - Clearing on object locator : By.name: email 
+24 May 22:02:05,452 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+24 May 22:02:05,619 INFO - Clearing on object locator : By.name: password 
+24 May 22:02:05,874 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+24 May 22:02:06,023 INFO - Clearing on object locator : By.name: confirmPassword 
+24 May 22:02:06,272 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+24 May 22:02:10,260 INFO - Clicking on the field : By.name: register 
+24 May 22:02:10,742 INFO - Closing Browser 
+24 May 22:04:20,208 INFO - Log4j Properties configured.... 
+24 May 22:04:21,565 INFO - Excel Properties configured.... 
+24 May 22:04:21,566 INFO - Seelcted Browser is : chrome 
+24 May 22:04:21,566 INFO - Seelcted Browser mode is : head 
+24 May 22:04:33,366 INFO - Browser Maximized 
+24 May 22:04:33,367 INFO - Seelcted Environment is qa 
+24 May 22:04:33,368 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+24 May 22:04:35,114 INFO - Clearing on object locator : By.name: firstName 
+24 May 22:04:35,475 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+24 May 22:04:35,651 INFO - Clearing on object locator : By.name: lastName 
+24 May 22:04:35,886 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+24 May 22:04:36,029 INFO - Clearing on object locator : By.name: phone 
+24 May 22:04:36,239 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+24 May 22:04:36,368 INFO - Clearing on object locator : By.name: userName 
+24 May 22:04:36,703 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+24 May 22:04:36,828 INFO - Clearing on object locator : By.name: address1 
+24 May 22:04:36,967 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+24 May 22:04:37,096 INFO - Clearing on object locator : By.name: city 
+24 May 22:04:37,231 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+24 May 22:04:37,353 INFO - Clearing on object locator : By.name: postalCode 
+24 May 22:04:37,522 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+24 May 22:04:38,001 INFO - Clearing on object locator : By.name: email 
+24 May 22:04:38,217 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+24 May 22:04:38,355 INFO - Clearing on object locator : By.name: password 
+24 May 22:04:38,598 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+24 May 22:04:38,734 INFO - Clearing on object locator : By.name: confirmPassword 
+24 May 22:04:38,983 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+24 May 22:05:16,455 INFO - Clicking on the field : By.name: register 
+24 May 22:05:16,688 INFO - Closing Browser 
+24 May 22:10:48,658 INFO - Log4j Properties configured.... 
+24 May 22:10:50,009 INFO - Excel Properties configured.... 
+24 May 22:10:50,010 INFO - Seelcted Browser is : chrome 
+24 May 22:10:50,011 INFO - Seelcted Browser mode is : head 
+24 May 22:11:01,881 INFO - Browser Maximized 
+24 May 22:11:01,882 INFO - Seelcted Environment is qa 
+24 May 22:11:01,883 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+24 May 22:11:03,458 INFO - Clearing on object locator : By.name: firstName 
+24 May 22:11:04,189 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+24 May 22:11:04,850 INFO - Clearing on object locator : By.name: lastName 
+24 May 22:11:05,484 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+24 May 22:11:06,006 INFO - Clearing on object locator : By.name: phone 
+24 May 22:11:06,623 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+24 May 22:11:07,089 INFO - Clearing on object locator : By.name: userName 
+24 May 22:11:07,744 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+24 May 22:11:08,188 INFO - Clearing on object locator : By.name: address1 
+24 May 22:11:08,716 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+24 May 22:11:09,170 INFO - Clearing on object locator : By.name: city 
+24 May 22:11:09,695 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+24 May 22:11:10,165 INFO - Clearing on object locator : By.name: postalCode 
+24 May 22:11:10,677 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+24 May 22:11:11,472 INFO - Clearing on object locator : By.name: email 
+24 May 22:11:12,015 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+24 May 22:11:12,516 INFO - Clearing on object locator : By.name: password 
+24 May 22:11:13,093 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+24 May 22:11:13,547 INFO - Clearing on object locator : By.name: confirmPassword 
+24 May 22:11:14,053 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+24 May 22:11:28,754 INFO - Clicking on the field : By.name: register 
+24 May 22:11:29,368 INFO - Closing Browser 
+25 May 18:37:10,437 INFO - Log4j Properties configured.... 
+25 May 18:37:11,445 INFO - Excel Properties configured.... 
+25 May 18:37:11,445 INFO - Seelcted Browser is : chrome 
+25 May 18:37:11,446 INFO - Seelcted Browser mode is : head 
+25 May 18:37:24,913 INFO - Browser Maximized 
+25 May 18:37:24,947 INFO - Seelcted Environment is qa 
+25 May 18:37:24,948 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+25 May 18:37:33,032 INFO - Clearing on object locator : By.name: firstName 
+25 May 18:38:33,909 ERROR - Clearing on object locator failed: By.name: firstName 
+25 May 18:38:33,910 ERROR - timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SLUDRAJ', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:52594}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 296f0e097efc339bb104ce6c3add1f0b 
+25 May 18:39:39,645 INFO - Closing Browser 
+25 May 18:40:37,805 INFO - Log4j Properties configured.... 
+25 May 18:40:39,047 INFO - Excel Properties configured.... 
+25 May 18:40:39,047 INFO - Seelcted Browser is : chrome 
+25 May 18:40:39,048 INFO - Seelcted Browser mode is : head 
+25 May 18:40:52,362 INFO - Browser Maximized 
+25 May 18:40:52,364 INFO - Seelcted Environment is qa 
+25 May 18:40:52,364 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+25 May 18:40:54,856 INFO - Clearing on object locator : By.name: firstName 
+25 May 18:40:55,438 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+25 May 18:40:55,823 INFO - Clearing on object locator : By.name: lastName 
+25 May 18:40:56,254 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+25 May 18:40:56,614 INFO - Clearing on object locator : By.name: phone 
+25 May 18:40:57,023 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+25 May 18:40:57,403 INFO - Clearing on object locator : By.name: userName 
+25 May 18:40:57,853 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+25 May 18:40:58,240 INFO - Clearing on object locator : By.name: address1 
+25 May 18:40:58,637 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+25 May 18:40:58,994 INFO - Clearing on object locator : By.name: city 
+25 May 18:40:59,408 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+25 May 18:40:59,774 INFO - Clearing on object locator : By.name: postalCode 
+25 May 18:41:00,204 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+25 May 18:41:00,823 INFO - Clearing on object locator : By.name: email 
+25 May 18:41:01,250 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+25 May 18:41:01,693 INFO - Clearing on object locator : By.name: password 
+25 May 18:41:02,109 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+25 May 18:41:02,529 INFO - Clearing on object locator : By.name: confirmPassword 
+25 May 18:41:02,959 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+25 May 18:41:14,259 INFO - Clicking on the field : By.name: register 
+25 May 18:41:14,626 INFO - Closing Browser 
+25 May 18:48:35,102 INFO - Log4j Properties configured.... 
+25 May 18:48:35,950 INFO - Excel Properties configured.... 
+25 May 18:48:35,951 INFO - Seelcted Browser is : chrome 
+25 May 18:48:35,951 INFO - Seelcted Browser mode is : head 
+25 May 18:48:49,177 INFO - Browser Maximized 
+25 May 18:48:49,178 INFO - Seelcted Environment is qa 
+25 May 18:48:49,179 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+25 May 18:48:56,145 INFO - Clearing on object locator : By.name: firstName 
+25 May 18:49:57,060 ERROR - Clearing on object locator failed: By.name: firstName 
+25 May 18:49:57,061 ERROR - timeout: Timed out receiving message from renderer: 9.997
+  (Session info: chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-SLUDRAJ', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\WINDOWS\TEMP\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:52923}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 67d6819bb37406084471538213c9bb3e 
+25 May 18:50:56,537 INFO - Log4j Properties configured.... 
+25 May 18:50:57,393 INFO - Excel Properties configured.... 
+25 May 18:50:57,393 INFO - Seelcted Browser is : chrome 
+25 May 18:50:57,393 INFO - Seelcted Browser mode is : head 
+25 May 18:51:08,724 INFO - Browser Maximized 
+25 May 18:51:08,728 INFO - Seelcted Environment is qa 
+25 May 18:51:08,728 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+25 May 18:51:10,715 INFO - Clearing on object locator : By.name: firstName 
+25 May 18:51:11,385 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+25 May 18:51:11,933 INFO - Clearing on object locator : By.name: lastName 
+25 May 18:51:12,532 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+25 May 18:51:13,005 INFO - Clearing on object locator : By.name: phone 
+25 May 18:51:13,493 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+25 May 18:51:13,917 INFO - Clearing on object locator : By.name: userName 
+25 May 18:51:14,482 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+25 May 18:51:14,920 INFO - Clearing on object locator : By.name: address1 
+25 May 18:51:15,340 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+25 May 18:51:15,720 INFO - Clearing on object locator : By.name: city 
+25 May 18:51:16,100 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+25 May 18:51:16,472 INFO - Clearing on object locator : By.name: postalCode 
+25 May 18:51:16,916 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+25 May 18:51:17,664 INFO - Clearing on object locator : By.name: email 
+25 May 18:51:18,120 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+25 May 18:51:18,604 INFO - Clearing on object locator : By.name: password 
+25 May 18:51:19,139 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+25 May 18:51:19,554 INFO - Clearing on object locator : By.name: confirmPassword 
+25 May 18:51:20,018 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+25 May 18:51:41,800 INFO - Clicking on the field : By.name: register 
+25 May 18:51:42,440 INFO - Closing Browser 
+06 Jun 21:19:07,915 INFO - Log4j Properties configured.... 
+06 Jun 21:19:09,370 INFO - Excel Properties configured.... 
+06 Jun 21:19:09,370 INFO - Seelcted Browser is : chrome 
+06 Jun 21:19:09,371 INFO - Seelcted Browser mode is : head 
+06 Jun 21:19:26,434 INFO - Browser Maximized 
+06 Jun 21:19:26,506 INFO - Seelcted Environment is qa 
+06 Jun 21:19:26,506 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+06 Jun 21:19:39,775 INFO - Clearing on object locator : By.name: firstName 
+06 Jun 21:19:53,230 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+06 Jun 21:20:00,664 INFO - Clearing on object locator : By.name: lastName 
+06 Jun 21:20:17,937 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+06 Jun 21:20:25,174 INFO - Clearing on object locator : By.name: phone 
+06 Jun 21:20:34,739 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+06 Jun 21:20:34,929 INFO - Clearing on object locator : By.name: userName 
+06 Jun 21:20:35,267 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+06 Jun 21:20:35,390 INFO - Clearing on object locator : By.name: address1 
+06 Jun 21:20:35,557 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+06 Jun 21:20:35,689 INFO - Clearing on object locator : By.name: city 
+06 Jun 21:20:35,874 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+06 Jun 21:20:35,991 INFO - Clearing on object locator : By.name: postalCode 
+06 Jun 21:20:36,166 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+06 Jun 21:20:36,617 INFO - Clearing on object locator : By.name: email 
+06 Jun 21:20:36,837 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+06 Jun 21:20:37,038 INFO - Clearing on object locator : By.name: password 
+06 Jun 21:20:37,356 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+06 Jun 21:20:37,603 INFO - Clearing on object locator : By.name: confirmPassword 
+06 Jun 21:20:37,919 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+06 Jun 21:20:39,784 INFO - Clicking on the field : By.name: register 
+06 Jun 21:20:39,909 INFO - Closing Browser 
+27 Jun 22:23:29,803 INFO - Log4j Properties configured.... 
+27 Jun 22:23:33,122 INFO - Excel Properties configured.... 
+27 Jun 22:23:33,123 INFO - Seelcted Browser is : chrome 
+27 Jun 22:23:33,123 INFO - Seelcted Browser mode is : head 
+27 Jun 22:23:49,824 INFO - Browser Maximized 
+27 Jun 22:23:49,849 INFO - Seelcted Environment is qa 
+27 Jun 22:23:49,849 INFO - Seelcted Environment url is http://newtours.demoaut.com/mercuryregister.php 
+27 Jun 22:23:51,779 INFO - Clearing on object locator : By.name: firstName 
+27 Jun 22:23:52,072 INFO - Sending data to the object locator : By.name: firstNameData is : Sachin 
+27 Jun 22:23:52,224 INFO - Clearing on object locator : By.name: lastName 
+27 Jun 22:23:52,432 INFO - Sending data to the object locator : By.name: lastNameData is : Tendulkar 
+27 Jun 22:23:52,568 INFO - Clearing on object locator : By.name: phone 
+27 Jun 22:23:52,751 INFO - Sending data to the object locator : By.name: phoneData is : 7896541230 
+27 Jun 22:23:53,075 INFO - Clearing on object locator : By.name: userName 
+27 Jun 22:23:53,352 INFO - Sending data to the object locator : By.name: userNameData is : Sachin78965@gmail.com 
+27 Jun 22:23:53,469 INFO - Clearing on object locator : By.name: address1 
+27 Jun 22:23:53,621 INFO - Sending data to the object locator : By.name: address1Data is : HYD 
+27 Jun 22:23:53,784 INFO - Clearing on object locator : By.name: city 
+27 Jun 22:23:53,992 INFO - Sending data to the object locator : By.name: cityData is : HYD 
+27 Jun 22:23:54,118 INFO - Clearing on object locator : By.name: postalCode 
+27 Jun 22:23:54,258 INFO - Sending data to the object locator : By.name: postalCodeData is : 500090 
+27 Jun 22:23:54,748 INFO - Clearing on object locator : By.name: email 
+27 Jun 22:23:54,954 INFO - Sending data to the object locator : By.name: emailData is : sachintt 
+27 Jun 22:23:55,097 INFO - Clearing on object locator : By.name: password 
+27 Jun 22:23:55,325 INFO - Sending data to the object locator : By.name: passwordData is : Test@1234 
+27 Jun 22:23:55,473 INFO - Clearing on object locator : By.name: confirmPassword 
+27 Jun 22:23:55,671 INFO - Sending data to the object locator : By.name: confirmPasswordData is : Test@1234 
+27 Jun 22:23:57,574 INFO - Clicking on the field : By.name: register 
+27 Jun 22:24:01,856 INFO - Closing Browser 
